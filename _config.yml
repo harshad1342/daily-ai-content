@@ -1,0 +1,13 @@
+title: Daily AI Content
+description: Fresh stories, AI news, business and tech posts every day.
+author: Harshad Koshti
+url: "https://harshad1342.github.io"
+baseurl: "/daily-ai-content"
+theme: minima
+permalink: /:year/:month/:day/:title/
+timezone: Asia/Kolkata
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
